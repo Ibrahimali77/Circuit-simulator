@@ -1,1 +1,1 @@
-# Circuit-simulator
+This circuit simulator project takes user input for number of voltage sources and resistors answell as potential difference and resistance values. It then calculates total resistance, potential difference and current and Plots a bar chart showing potential difference across components
